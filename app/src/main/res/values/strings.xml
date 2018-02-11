@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="txt_login_user">UserName</string>
+    <string name="txt_login_pass">Password</string>
+    <string name="btn_login_login">Login</string>
+</resources>
