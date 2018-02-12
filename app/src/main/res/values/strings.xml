@@ -4,4 +4,10 @@
     <string name="txt_login_user">UserName</string>
     <string name="txt_login_pass">Password</string>
     <string name="btn_login_login">Login</string>
+    <string name="btn_login_signup">Sign Up</string>
+    <string name="btn_signup_sure">Apply</string>
+    <string name="btn_signup_cancel">Cancel</string>
+    <string name="txt_signup_phone">Phone</string>
+    <string name="txt_signup_user">UserName</string>
+    <string name="txt_signup_pass">Password</string>
 </resources>
